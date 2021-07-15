@@ -25,3 +25,5 @@ One test minimum for each requirement listed above.
 ### Change Log
 
 1.1: Setup and Initialize repo - 13 Jul 2021
+
+1.2: Completed Tasks - 14 Jul 2021
